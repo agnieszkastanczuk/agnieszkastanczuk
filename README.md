@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world! 👋
+
+👋 Hi, my name is Agnieszka. My base coding language is JavaScript.
+
+Here you will find my first projects done in HTML5, CSS3 and JavaScript.
 
 <!--
 **agnieszkastanczuk/agnieszkastanczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
