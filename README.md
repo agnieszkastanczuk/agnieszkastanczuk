@@ -8,7 +8,7 @@ My portfolio:
 https://agnieszka-s-d.netlify.app/
 
 Tech stack:
-✔ HTML & CSS & SCSS + Bootstrap ✔CSS3  ✔ JavaScript  ✔ GIT/Github
+✔ HTML & CSS & SCSS + Bootstrap  ✔ JavaScript  ✔ GIT/Github
 
 In the process of learning:
 ✔ TypeScript  ✔ React ✔ Angular  ✔ Green Digital Skills  
