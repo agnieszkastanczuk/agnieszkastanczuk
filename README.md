@@ -1,24 +1,29 @@
 ### Hello world! 👋
 
-👋 Hi, my name is Agnieszka and aspirng frontend developer with background in architecture. 
-I code, because I like it.
+👋 Hi, my name is Agnieszka. 
+I'm frontend developer. I like to learn new skills. I code, because I like it.
 
+The project in which I participate: 
+https://highheelscode.com/
 
 My portfolio:
 https://agnieszka-s-d.netlify.app/
 
 Tech stack:
+✔ Next.js  ✔ React  ✔ TypeScript ✔ Node.js
 ✔ HTML & CSS & SCSS + Bootstrap  ✔ JavaScript  ✔ GIT/Github
 
 In the process of learning:
-✔ TypeScript  ✔ React ✔ Angular  ✔ Green Digital Skills  
+ ✔ React Native  ✔ Angular  ✔ Vue  ✔ Angular   
+
 
 My other skills:
 - creativity
 - Wordpress, Webflow
-- Adobe Photoshop, Adobe Illustrartor 
-- Canva 
+- Adobe Photoshop, Adobe Illustrartor, Adobe InDesign
 - Figma
+- Green Digital Skills
+- Canva 
 - fast learning skill
 - problem-solving
 - adaptability
