@@ -14,7 +14,7 @@ Tech stack:
 ✔ HTML & CSS & SCSS + Bootstrap  ✔ JavaScript  ✔ GIT/Github
 
 In the process of learning:
- ✔ React Native  ✔ Angular  ✔ Vue  ✔ Angular   
+ ✔ React Native  ✔ Angular  ✔ Vue  ✔ Testing   
 
 
 My other skills:
