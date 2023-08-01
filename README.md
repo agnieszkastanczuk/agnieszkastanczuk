@@ -1,33 +1,24 @@
 ### Hello world! 👋
 
-👋 Hi, my name is Agnieszka. 
-I'm frontend developer. I like to learn new skills. I code, because I like it.
+👋 Hi, my name is Agnieszka. I'm frontend developer.
+Currently, I work as a freelancer, and since June 2023, I have been cooperating with the software house [HighHeelsCode](https://www.linkedin.com/company/high-heels-code/) since June 2023.
 
-The project in which I participate: 
-https://highheelscode.com/
+Tech stack: <br/>
+✔ Next.js  ✔ React  ✔ TypeScript/JavaScript ✔ Node.js ✔ Gatsby.js 
+✔ HTML & CSS & SCSS + Bootstrap + Tailwind ✔ GIT/Github
 
-My portfolio:
-https://agnieszka-s-d.netlify.app/
-
-Tech stack:
-✔ Next.js  ✔ React  ✔ TypeScript ✔ Node.js
-✔ HTML & CSS & SCSS + Bootstrap  ✔ JavaScript  ✔ GIT/Github
-
-In the process of learning:
+I’m currently learning: <br/>
  ✔ React Native  ✔ Angular  ✔ Vue  ✔ Testing   
 
+My other skills: <br/>
+✔ creativity   ✔ problem-solving  ✔ WordPress, Webflow   ✔ Adobe Photoshop, Adobe Illustrartor, Adobe InDesign   ✔ Blender  ✔ Rubik's Cube  
 
-My other skills:
-- creativity
-- Wordpress, Webflow
-- Adobe Photoshop, Adobe Illustrartor, Adobe InDesign
-- Figma
-- Green Digital Skills
-- Canva 
-- fast learning skill
-- problem-solving
-- adaptability
-- Rubik's Cube :)
+[My portfolio](https://portfolio-agnieszkastanczuk.vercel.app/)
+
+💬 [Say hi!](mailto:work.a.stanczuk@gmail.com)
+
+⚡ Fun fact 
+I love alpacas 🦙
 
 
 <!--
