@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 👋 Hi, my name is Agnieszka. I'm frontend developer.
-Currently, I work as a freelancer, and since June 2023, I have been cooperating with the software house [HighHeelsCode](highheelscode.com).
+Currently, I work as a freelancer, and since June 2023, I have been cooperating with the software house [HighHeelsCode](https://highheelscode.com/).
 
 Tech stack: <br/>
 ✔ Next.js  ✔ React  ✔ TypeScript/JavaScript ✔ Node.js ✔ Gatsby.js 
