@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 👋 Hi, my name is Agnieszka. I'm frontend developer.
-Currently, I work as a freelancer, and since June 2023, I have been cooperating with the software house [HighHeelsCode](https://www.linkedin.com/company/high-heels-code/) since June 2023.
+Currently, I work as a freelancer, and since June 2023, I have been cooperating with the software house [HighHeelsCode](highheelscode.com).
 
 Tech stack: <br/>
 ✔ Next.js  ✔ React  ✔ TypeScript/JavaScript ✔ Node.js ✔ Gatsby.js 
@@ -17,7 +17,7 @@ My other skills: <br/>
 
 💬 [Say hi!](mailto:work.a.stanczuk@gmail.com)
 
-⚡ Fun fact 
+⚡ Fun fact  <br/>
 I love alpacas 🦙
 
 
