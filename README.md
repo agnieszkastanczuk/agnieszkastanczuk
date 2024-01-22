@@ -15,11 +15,11 @@ My other skills: <br/>
 
 [My portfolio](https://portfolio-agnieszkastanczuk.vercel.app/) (under renovation)
 
-💬 [Say hi!](mailto:work.a.stanczuk@gmail.com)
+💬 [Say hi!](mailto:work.a.stanczuk@gmail.com)  <br/>
 👉 [LinkedIn](https://www.linkedin.com/in/a-stanczuk/)
 
 ⚡ Fun fact  <br/>
-I love alpacas 🦙
+I love alpacas 🦙  <br/>
 Before I became a programmer I was an architect. Programming is more creative 😎 than reading construction law.
 
 <!--
